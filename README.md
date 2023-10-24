@@ -3,7 +3,7 @@
 <div align="center">
     <br/>
 
-# Hello Rails Frontend
+# Hello Rails Backend
 
 </div>
 <!-- TABLE OF CONTENTS -->
